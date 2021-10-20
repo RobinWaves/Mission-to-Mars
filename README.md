@@ -1,6 +1,4 @@
-# Web-Scraping-Challenge
-
-## Mission to Mars
+# Mission to Mars
 ***
 
 This assignment builds a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.

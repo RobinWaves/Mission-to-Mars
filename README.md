@@ -18,4 +18,4 @@ Run app.py in your terminal.  Click on the local host link or copy and paste int
 
 ***
 
-![Screenshot](Mission to Mars.png)
+![Screenshot](https://github.com/RobinWaves/Mission-to-Mars/blob/main/Mission%20to%20Mars%20.png)
